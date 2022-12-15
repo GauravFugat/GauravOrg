@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>domPractice</members>
+		<members>dragAndDropDatatable</members>
+		<members>genericSearchBox</members>
+		<members>htmlLoop</members>
+		<members>opportunityDatatale</members>
+		<members>showOpportunitiesLWC</members>
+		<members>tabset</members>
+		<name>LightningComponentBundle</name>
+	</types>
+	<version>55.0</version>
+</Package>
